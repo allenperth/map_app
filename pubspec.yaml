@@ -1,0 +1,10 @@
+name: map_app
+description: A sample application using dart, stream, json, google maps api
+dependencies:
+  stream: any
+  google_maps: any
+  js: any
+  xml: any
+
+#  js: any
+#  unittest: any
